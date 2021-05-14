@@ -1,0 +1,20 @@
+Questi modelli cercano di invididuare il "sentiment" della persona.
+E' possibile provare i vari modelli creati. Lo script per la prova è "Evaluate_Models.py".
+Lo script richiede 2 argomenti: la cartella e il metodo. 
+
+python3 Evaluate_Models.py #cartella #metodo
+
+I metodi da usare sono:
+-Adaboost
+-SVM
+-Dense_NN
+-Convolutional_NN
+-KNN
+-Naive_Bayes
+-Anomaly_Detection
+
+Esempio:
+
+python3 Evaluate_Models.py Test-set Adaboost
+
+N.B. usare dei file in formato .wav

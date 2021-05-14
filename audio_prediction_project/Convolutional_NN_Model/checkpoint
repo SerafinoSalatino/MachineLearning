@@ -1,0 +1,2 @@
+model_checkpoint_path: "w32f"
+all_model_checkpoint_paths: "w32f"
